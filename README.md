@@ -19,7 +19,7 @@ Para visualizar a tabela, basta abrir o arquivo `index.html` em qualquer navegad
 Contribuições são sempre bem-vindas! Se você tem alguma ideia ou sugestão para melhorar este projeto, fique à vontade para criar um pull request ou abrir uma issue no GitHub.
 
 ## Autor
-- [Seu Nome](Link para seu perfil do GitHub ou outra rede social)
+- Rodrigo Alan Celio
 
 ## Licença
 Este projeto está sob a [Licença MIT](LINK_PARA_A_LICENCA).
